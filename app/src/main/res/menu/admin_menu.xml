@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        />
+    <item
+        android:id="@+id/edit"
+        android:title="Edit courses"
+        />
+    <item
+        android:id="@+id/annou"
+        android:title="Announcement"
+        />
+    <item
+        android:id="@+id/comp"
+        android:title="Complaints"
+        />
+    <item
+        android:id="@+id/schedule"
+        android:title="View exam schedule"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="Log out"
+        />
+</menu>
